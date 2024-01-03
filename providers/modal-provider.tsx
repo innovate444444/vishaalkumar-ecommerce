@@ -1,4 +1,4 @@
-"use-client";
+"use client";
 
 
 import { StoreModal } from "@/components/modals/store-modal";
